@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ef306d477b26c44ac8eeee47272a28, type: 3}
+  m_Name: _tileset_caves1
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 478442, guid: bacb2649dcb048942804f680a061ecbc, type: 2}
+  - {fileID: 478442, guid: 83ed607feeaea4c4f80d71079994874a, type: 2}
+  - {fileID: 478442, guid: b32d16b96fca42540977984794e1c748, type: 2}
+  - {fileID: 478442, guid: 5c7f65a870e570c48858638276fe51f7, type: 2}
+  - {fileID: 478442, guid: ed5efd478f3add04d9eda0fa24668c1b, type: 2}
+  - {fileID: 478442, guid: 2473ded5d6c14034c9e9582f6ac9e627, type: 2}
+  - {fileID: 478442, guid: dbc4bc34147c8e248a03d331a398a5cd, type: 2}
+  - {fileID: 478442, guid: 473bf7d0a2c5ea74d89609a22e101fa2, type: 2}
+  - {fileID: 478442, guid: 8dbd5da9f26ae094c87c12c557f52058, type: 2}
+  - {fileID: 478442, guid: adbfed8ecb0e4f74c813a63d0023334a, type: 2}
+  - {fileID: 478442, guid: 4a8cc2fd787224840bb1a2d85ac67983, type: 2}
+  - {fileID: 478442, guid: d88c9bdeb8ce8754996165df3454fab3, type: 2}
+  - {fileID: 478442, guid: 81a3a01e3e0d5e740ae016313f60f286, type: 2}
+  - {fileID: 478442, guid: 1ed2dec960d7fcc4d8ee4a0ed56dbd4a, type: 2}
+  - {fileID: 478442, guid: d01de9ac52c85764e9267caa20860805, type: 2}
+  - {fileID: 478442, guid: 0fd733ad3fb18594b9ce11d2dc733fc8, type: 2}

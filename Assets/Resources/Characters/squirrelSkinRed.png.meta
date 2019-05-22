@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: c1982035ec50eb54397d950c48f214f0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head
+    21300002: body
+    21300004: tailbottom
+    21300006: tailtip
+    21300008: leg
+    21300010: forearm
+    21300012: hand
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 13
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: .712500036, y: .178571433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tailbottom
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 9
+        height: 19
+      alignment: 9
+      pivot: {x: .444444448, y: .121052593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tailtip
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 12
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: .300000131, y: .393333316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leg
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: .5, y: .774999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forearm
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: .283333451, y: .71666652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hand
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 4
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: .26666674, y: .883333206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
